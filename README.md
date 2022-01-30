@@ -1,9 +1,6 @@
 # CS50X-2022
 
-<a href="https://www.mozilla.org/pt-BR/">a página inicial da Mozilla</a>.
-
- Mario-less
-Invert Pyramid <br>
+<a href="https://github.com/RolandGarcia/CS50X-2022/tree/main/Mario-less">Mario less, Invert Pyramid </a>.
 
 <a href="https://www.mozilla.org/pt-BR/">a página inicial da Mozilla</a>.
 
