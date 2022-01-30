@@ -2,8 +2,7 @@
 
 <a href="https://github.com/RolandGarcia/CS50X-2022/tree/main/Mario-less">Mario less, Invert Pyramid </a>.
 
-<a href="https://www.mozilla.org/pt-BR/">a página inicial da Mozilla</a>.
-
+<a href="https://github.com/RolandGarcia/CS50X-2022/tree/main/Cash%20">Cash problem resolved</a>.
 
 Simple code, learing and Studying.
 
